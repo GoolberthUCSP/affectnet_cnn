@@ -30,4 +30,4 @@ Open main.ipynb and run the cells to train and evaluate the model.
 # Dataset
 The AffectNet dataset can be found on Kaggle. This dataset contains images labeled with different emotions, allowing for training machine learning models for emotional classification.
 
-Dataset source: [AffectNet Dataset on Kaggle](https://www.kaggle.com/code/arkhanzada/facial-emotions-classification-affectnet-dataset/input?select=surprise)
+Dataset source: [AffectNet Dataset on Kaggle](https://www.kaggle.com/code/arkhanzada/facial-emotions-classification-affectnet-dataset/input)
